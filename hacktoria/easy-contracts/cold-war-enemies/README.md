@@ -5,7 +5,7 @@
 
 ##### 01/07/2025
 
-#### Contract and the ZIP file can be found [here](https://hacktoria.com/#easy).
+#### Contract and the ZIP file can be found [here](https://hacktoria.com/#contracts).
 
 A pretty simple CTF that took no longer than a couple of minutes to get the flag. I will not cover the story, but I recommend having a read if you have the time. 
 
