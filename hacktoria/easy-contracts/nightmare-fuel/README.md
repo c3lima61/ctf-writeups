@@ -5,7 +5,7 @@
 
 ##### 03/07/2025
 
-#### Contract and the ZIP file can be found [here](https://hacktoria.com/#easy).
+#### Contract and the ZIP file can be found [here](https://hacktoria.com/#contracts).
 
 Simple one if you have used metadata tools before.
 
